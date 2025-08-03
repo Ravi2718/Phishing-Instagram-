@@ -90,7 +90,7 @@ A realistic Instagram login page clone designed to:
 ---
 
 ## 📜 License  
-This project is **[MIT_LICENSE](License)** - you may:  
+This project is **[MIT_LICENSE](LICENSE )** - you may:  
 - Use for **non-commercial education**  
 - **Not** redistribute modified versions  
 - **Not** use for actual phishing  
